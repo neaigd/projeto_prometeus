@@ -6,7 +6,7 @@ Este projeto tem como objetivo oferecer uma solução inovadora para análise co
 
 ## Origem e Coordenação
 
-A ideia inicial do projeto foi concebida por **Viny Campos**, com a cooperação do **Núcleo de Estudos AI Generativa Aplicada ao Direito (NEIAGD)**. A **coordenação geral** do projeto está sob a responsabilidade de **Luiz Peixoto**.
+A ideia inicial do projeto foi concebida por **Viny Campos** que é o coordenador do projeto, com a cooperação do **Núcleo de Estudos AI Generativa Aplicada ao Direito (NEIAGD)**. - **coordenação geral** de **Luiz Peixoto**.
 
 ## Visão Geral
 
@@ -31,7 +31,7 @@ Ao invés de segmentar exclusivamente o nicho da advocacia – onde já existem 
     
 - **Bibliotecas:** (exemplo) NLTK, spaCy, scikit-learn, TensorFlow/PyTorch (escolha conforme sua implementação)
     
-- **Ferramentas de Desenvolvimento:** Jupyter Notebook, VSCode, Git
+- **Ferramentas de Desenvolvimento:** Jupyter Notebook, VSCode, Git, VSCode, Windsurf, e interações em cluster humano com llms - metodologia própria do Núcleo.  (não é vibe code!)
     
 
 ## Como Começar
