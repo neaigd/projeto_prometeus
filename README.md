@@ -96,4 +96,3 @@ _Este projeto visa oferecer soluções de análise contratual inteligentes e ace
 
 ---
 
-Se quiser que eu aplique diretamente no arquivo ou personalize ainda mais algum trecho, é só avisar!
